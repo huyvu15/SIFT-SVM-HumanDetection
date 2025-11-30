@@ -1,1 +1,1 @@
-"# SIFT-SVM-HumanDetection" 
+# SIFT-SVM-HumanDetection
